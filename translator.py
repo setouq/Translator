@@ -19,12 +19,12 @@ def translate_text():
 
 
 root = Tk()
-root.title("Google Translator")
+root.title("My Translator")
 root.geometry("500x600")
 root.config(bg="#F0F0F0")
 
 # Header
-header_label = Label(root, text="Google Translator", font=("Helvetica", 24, "bold"), bg="#F0F0F0")
+header_label = Label(root, text="My Translator", font=("Helvetica", 24, "bold"), bg="#F0F0F0")
 header_label.pack(pady=20)
 
 # Source Text
