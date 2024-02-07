@@ -12,8 +12,9 @@ The Translator project is a Python program that helps people translate text from
 - Python 3.x installed on your system.
 - Required Python packages: `tkinter`, `googletrans`.
 
-# Installation
-  Clone the repository:
+### Installation
+
+1. Clone the repository:
    ```sh
    git clone https://github.com/your_username/translator.git
 
@@ -26,8 +27,3 @@ The Translator project is a Python program that helps people translate text from
 4. Run the application:
    python translator.py
 
-**usage**
-1. Enter the text you want to translate into the source text field.
-2. Select the source language and destination language from the dropdown menus.
-3. Click the "Translate" button to translate the text.
-4. The translated text will appear in the destination text field.
